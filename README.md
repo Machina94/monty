@@ -1,3 +1,4 @@
+This project was done by Ruby 
 # Monty
 > This is an introductory project that explains what LIFO and FIFO mean
 > What a stack is, and when to use it what a queue is, and when to use it
